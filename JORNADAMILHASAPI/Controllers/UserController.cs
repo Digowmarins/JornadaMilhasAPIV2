@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace JORNADAMILHASAPI.Controllers
 {
     [ApiController]
-    [Route("depoimentos")]
+    [Route("users")]
     public class UserController : ControllerBase
     {
         

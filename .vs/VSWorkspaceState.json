@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\JORNADAMILHASAPI",
-    "\\JORNADAMILHASAPI\\Controllers"
+    "\\JORNADAMILHASAPI\\Controllers",
+    "\\JORNADAMILHASAPI\\Migrations"
   ],
-  "SelectedNode": "\\JORNADAMILHASAPI.sln",
+  "SelectedNode": "\\JORNADAMILHASAPI\\Migrations\\UserContextModelSnapshot.cs",
   "PreviewInSolutionExplorer": false
 }
